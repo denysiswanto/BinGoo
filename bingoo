@@ -17,7 +17,7 @@
 # CONFIGURATION SECTION
 #<= CHANGE BELOW THIS AS NEEDED =>
 #Path to SQLMAP 
-SPATH=/home/hood3drob1n/fun/sqlmap
+SPATH=/root/sqlmap
 #Path to FIMAP
 FPATH=/home/hood3drob1n/fun/fimap/src
 # Junk and Temp Files Location for tmp storage while script does its thing

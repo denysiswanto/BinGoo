@@ -19,7 +19,7 @@
 #Path to SQLMAP 
 SPATH=/root/sqlmap
 #Path to FIMAP
-FPATH=/home/hood3drob1n/fun/fimap/src
+FPATH=/root/fimap/src
 # Junk and Temp Files Location for tmp storage while script does its thing
 JUNK=/tmp
 # Pre-set for pagefinder plugin to use admin.lst file for finding admin files but can change to search for anything (plugins/pinfo.lst for example) based on server response and given word list with one per line, change as you like just make sure it exists before you run if you do :p
